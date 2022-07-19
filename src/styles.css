@@ -2,3 +2,15 @@ h1 {
     text-align: center;
     background-color: bisque;
 }
+
+p {
+    text-align: center;
+}
+
+a {
+    display: flex;
+}
+
+img {
+    display: block;
+}
